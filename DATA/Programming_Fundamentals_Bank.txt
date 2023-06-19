@@ -1,0 +1,69 @@
+2efcde9
+Which of the following operators is used to access the member variables and functions of an object in C++?
+Option: * (asterisk)
+Option: -> (arrow)
+Option dabfac4: . (dot)
+Option: :: (scope resolution)
+
+b94d27b
+In C++, the size of a character variable is always 1 byte.
+Option dabfac4: True
+Option: False
+
+b94d27b
+In C++, a function can only return a single value.
+Option: True
+Option dabfac4: False
+
+2efcde9
+Which of the following is NOT a valid C++ variable name?
+Option: num_students
+Option: _score
+Option dabfac4: 1student
+Option: totalScore
+
+b94d27b
+In C++, the "cin" object is used to display some information to the user.
+Option: True
+Option dabfac4: False
+
+b94d27b
+In C++, the operator ++ can be used with both integer and floating-point data types.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Describe the concept of a variable in programming and explain its importance in C++.
+
+88f7ace
+Discuss the difference between a compiler and an interpreter in the context of programming languages.
+
+88f7ace
+Explain the concept of control structures in programming and provide examples of different types of control structures used in C++.
+
+2efcde9
+What is the value of a null pointer in C++?
+Option dabfac4: 0
+Option: 1
+Option: -1
+Option: undefined
+
+b94d27b
+In C++, the keyword "const" is used to declare constant variables that cannot be modified.
+Option dabfac4: True
+Option: False
+
+2efcde9
+Which of the following data types is used to store characters in C++?
+Option: int
+Option: float
+Option: char
+Option dabfac4: string
+
+b94d27b
+The "switch" statement in C++ allows you to perform different actions based on different conditions.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Explain the concept of loops in programming and describe the difference between a "for" loop and a "while" loop in C++.

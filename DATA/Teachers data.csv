@@ -1,0 +1,13 @@
+,,,Programming Fundamentals,Object Oriented Programming,Introduction To Computing,Data Structures,Analysis of Algorithms,Software Requirements Engineering,Research Methodology,Big Data Analytics,Artificial Intelligence,Deep Learning,Digital Image Processing
+S#,Roll No.,Teacher Name,CS 101,CS 201,CS 102,CS 301,CS 302,SE 301,CS 501,CS 407,CS 307,CS 601,CS 409
+1,10I-0001,Teacher Name1,1,0,0,0,0,0,0,0,0,0,0
+2,10I-0002,Teacher Name2,0,1,0,0,0,0,0,0,0,0,0
+3,10I-0003,Teacher Name3,0,0,1,0,0,0,0,0,0,0,0
+4,10I-0004,Teacher Name4,0,0,0,1,0,0,0,0,0,0,0
+5,10I-0005,Teacher Name5,0,0,0,0,1,0,0,0,0,0,0
+6,10I-0006,Teacher Name6,0,0,0,0,0,1,0,0,0,0,0
+7,10I-0007,Teacher Name7,0,0,0,0,0,0,1,0,0,0,0
+8,10I-0008,Teacher Name8,0,0,0,0,0,0,0,1,0,0,0
+9,10I-0009,Teacher Name9,0,0,0,0,0,0,0,0,1,0,0
+10,10I-0010,Teacher Name10,0,0,0,0,0,0,0,0,0,1,0
+11,10I-0011,Teacher Name11,0,0,0,0,0,0,0,0,0,0,1

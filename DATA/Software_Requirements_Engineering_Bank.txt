@@ -1,0 +1,59 @@
+2efcde9
+What is the purpose of software requirements engineering in the software development process?
+Option: To design the user interface of the software.
+Option dabfac4: To elicit, analyze, document, and validate the needs and expectations of stakeholders.
+Option: To write the code and implement the software functionality.
+Option: To test and debug the software for quality assurance.
+
+b94d27b
+True or False: Requirements can be classified as functional and non-functional requirements.
+Option dabfac4: True
+Option: False
+
+2efcde9
+What is the difference between user requirements and system requirements?
+Option: User requirements specify the technical details of the software, while system requirements focus on user expectations.
+Option: User requirements focus on functionality, while system requirements specify the hardware and software environment.
+Option dabfac4: User requirements define what the software should do from the user's perspective, while system requirements define how the software should operate and integrate with the overall system.
+Option: User requirements and system requirements are interchangeable terms.
+
+b94d27b
+True or False: Requirements gathering is a one-time activity that occurs only at the beginning of a software project.
+Option: True
+Option dabfac4: False
+
+88f7ace
+Explain the concept of a use case in software requirements engineering. Provide an example of how use cases can be used to capture and document functional requirements.
+
+88f7ace
+Discuss the importance of requirements validation and verification in software requirements engineering. Explain the techniques and strategies used to ensure the correctness and completeness of requirements.
+
+2efcde9
+What is the purpose of conducting interviews in requirements elicitation?
+Option: To gather requirements from a large group of stakeholders simultaneously.
+Option dabfac4: To have direct, one-on-one interactions with stakeholders to understand their needs and expectations.
+Option: To observe users in their natural environment to identify requirements.
+Option: To distribute questionnaires and collect responses from stakeholders.
+
+2efcde9
+What is the main advantage of using prototyping as a requirements elicitation technique?
+Option: It allows for direct interactions with stakeholders.
+Option: It provides a visual representation of the software to gather feedback.
+Option dabfac4: It helps stakeholders better understand their requirements and provides an opportunity for refinement.
+Option: It ensures accurate documentation of requirements.
+
+b94d27b
+True or False: Brainstorming is a group-based requirements elicitation technique that encourages free thinking and idea generation.
+Option dabfac4: True
+Option: False
+
+b94d27b
+True or False: Observational techniques involve observing users performing their tasks and activities to identify their requirements.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Discuss the strengths and limitations of different requirements elicitation techniques, such as interviews, surveys, and workshops. Explain when and how each technique can be effectively used.
+
+88f7ace
+Explain the concept of requirement prioritization and its importance in software requirements engineering. Discuss the different prioritization techniques used to determine the importance and urgency of requirements.

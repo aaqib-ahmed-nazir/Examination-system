@@ -1,0 +1,62 @@
+2efcde9
+What is deep learning?
+Option: Deep learning refers to the process of training computers to imitate human behavior.
+Option: Deep learning is a type of machine learning that involves complex algorithms.
+Option dabfac4: Deep learning is a subset of machine learning that uses artificial neural networks to model and solve complex problems.
+Option: Deep learning is a technique used to enhance the performance of traditional programming.
+
+b94d27b
+Deep learning models are capable of automatically learning hierarchical representations of data.
+Option dabfac4: True
+Option: False
+
+2efcde9
+What is the purpose of activation functions in deep learning?
+Option: Activation functions are used to control the learning rate of the model.
+Option: Activation functions are responsible for initializing the weights and biases of the neural network.
+Option dabfac4: Activation functions introduce non-linearity to the network, enabling it to learn complex patterns and make predictions.
+Option: Activation functions are used to regularize the model and prevent overfitting.
+
+b94d27b
+Convolutional Neural Networks (CNNs) are commonly used in deep learning for image recognition and computer vision tasks.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Explain the concept of backpropagation in deep learning. How does it enable the training of deep neural networks, and what role does it play in optimizing the model's performance?
+
+88f7ace
+Discuss the challenges and limitations of deep learning, including the need for large amounts of labeled training data, computational resources, and interpretability of the model's decision-making process.
+
+a5380ee
+Recurrent Neural Networks (RNNs)
+
+2efcde9
+What is the main characteristic of recurrent neural networks (RNNs) compared to other neural network architectures?
+Option: RNNs have multiple hidden layers.
+Option: RNNs can only process sequential data.
+Option dabfac4: RNNs have connections that allow information to flow in cycles.
+Option: RNNs use different activation functions.
+
+2efcde9
+What is the purpose of the "hidden state" in recurrent neural networks?
+Option: The hidden state stores the input data for the network.
+Option: The hidden state represents the final output of the network.
+Option dabfac4: The hidden state captures and maintains the contextual information from previous inputs.
+Option: The hidden state is used to control the learning rate of the network.
+
+b94d27b
+Long Short-Term Memory (LSTM) is a type of recurrent neural network that is particularly effective in capturing long-term dependencies in sequential data.
+Option dabfac4: True
+Option: False
+
+b94d27b
+RNNs are commonly used in natural language processing tasks such as machine translation and text generation.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Explain the concept of sequence-to-sequence models in the context of recurrent neural networks. How are they used in tasks such as machine translation or speech recognition?
+
+88f7ace
+Discuss the advancements and applications of deep learning in various fields, such as computer vision, natural language processing, and speech recognition.

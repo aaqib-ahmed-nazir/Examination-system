@@ -1,0 +1,59 @@
+2efcde9
+What is the time complexity of a linear search algorithm?
+Option dabfac4: O(n)
+Option: O(1)
+Option: O(log n)
+Option: O(n^2)
+
+b94d27b
+The time complexity of an algorithm measures the amount of time it takes to run.
+Option dabfac4: True
+Option: False
+
+2efcde9
+What is the purpose of Big O notation in algorithm analysis?
+Option: To count the number of operations performed by an algorithm.
+Option: To measure the actual running time of an algorithm.
+Option: To analyze the space complexity of an algorithm.
+Option dabfac4: To express the upper bound of the algorithm's growth rate.
+
+b94d27b
+The time complexity of an algorithm can be represented by a constant value.
+Option: True
+Option dabfac4: False
+
+88f7ace
+Explain the concept of algorithm efficiency and its importance in the design and analysis of algorithms. Provide an example of how algorithm efficiency can impact the performance of a program.
+
+88f7ace
+Discuss the difference between best-case, average-case, and worst-case analysis of algorithms. Provide examples to illustrate each case.
+
+2efcde9
+What is the time complexity of the Bubble Sort algorithm?
+Option: O(n)
+Option: O(n log n)
+Option: O(n^2)
+Option dabfac4: O(n^2)
+
+2efcde9
+Which sorting algorithm is known for its average-case and best-case time complexity of O(n log n)?
+Option: Insertion Sort
+Option: Selection Sort
+Option: Quick Sort
+Option dabfac4: Merge Sort
+
+b94d27b
+The selection sort algorithm is an example of an in-place sorting algorithm.
+Option dabfac4: True
+Option: False
+
+b94d27b
+The stable sort algorithm maintains the relative order of elements with equal keys.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Explain the concept of Divide and Conquer in algorithm design. Provide an example of a sorting algorithm that uses the Divide and Conquer approach.
+
+88f7ace
+Discuss the trade-offs between different sorting algorithms in terms of time complexity, space complexity, and stability.

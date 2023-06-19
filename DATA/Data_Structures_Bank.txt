@@ -1,0 +1,63 @@
+2efcde9
+What is an array in programming?
+Option: A data structure that stores elements of different data types.
+Option: A linear data structure that stores elements of the same data type.
+Option dabfac4: A collection of elements of the same data type, accessed by their indices.
+Option: A data structure that stores elements in a hierarchical manner.
+
+b94d27b
+A stack is a data structure that follows the Last-In-First-Out (LIFO) principle.
+Option dabfac4: True
+Option: False
+
+2efcde9
+What is the time complexity of accessing an element in an array?
+Option: O(8)
+Option dabfac4: O(1)
+Option: O(n)
+Option: O(log n)
+
+b94d27b
+A linked list is a data structure that consists of a sequence of nodes, where each node contains a reference to the previous node.
+Option: True
+Option dabfac4: False
+
+88f7ace
+Explain the concept of recursion in programming and provide an example of a recursive algorithm.
+
+88f7ace
+Discuss the difference between a queue and a stack data structure. Explain their applications and provide examples of real-life scenarios where they can be used.
+
+2efcde9
+What is a binary search tree?
+Option: A data structure that stores elements in a sorted manner using a linked list.
+Option dabfac4: A binary tree in which the left child of a node contains smaller elements, and the right child contains larger elements.
+Option: A data structure that allows elements to be accessed randomly using their indices.
+Option: A tree structure that allows multiple children for each node.
+
+2efcde9
+What is the time complexity of searching for an element in a binary search tree (BST)?
+Option: O(1)
+Option: O(n)
+Option dabfac4: O(log n)
+Option: O(n log n)
+
+b94d27b
+True or False: In a binary search tree, the left child of a node always contains a smaller value than the node, and the right child contains a larger value.
+Option dabfac4: True
+Option: False
+
+2efcde9
+What is the purpose of using a binary search tree over other data structures?
+Option: To store elements in a sorted manner.
+Option: To efficiently search for an element.
+Option: To facilitate easy insertion and deletion of elements.
+Option dabfac4: All of the above.
+
+b94d27b
+True or False: A binary search tree can have duplicate values for its nodes.
+Option: True
+Option dabfac4: False
+
+88f7ace
+Explain the concept of AVL trees and how they maintain balance in binary search trees. Discuss the importance of balanced trees in terms of time complexity.

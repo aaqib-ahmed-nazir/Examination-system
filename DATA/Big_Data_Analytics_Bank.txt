@@ -1,0 +1,59 @@
+2efcde9
+What is the main objective of big data analytics?
+Option: To collect and store large amounts of data.
+Option: To process and analyze data quickly.
+Option dabfac4: To derive meaningful insights and make data-driven decisions.
+Option: To develop data visualization tools.
+
+b94d27b
+Big data refers to the volume of data, while data analytics refers to the process of extracting knowledge and insights from that data.
+Option dabfac4: True
+Option: False
+
+2efcde9
+What is the role of Hadoop in big data analytics?
+Option: Hadoop is a data visualization tool used in big data analytics.
+Option: Hadoop is a programming language used for big data analytics.
+Option dabfac4: Hadoop is a distributed computing framework that enables processing of large data sets.
+Option: Hadoop is a database management system for storing big data.
+
+b94d27b
+Data preprocessing is an essential step in big data analytics to clean and transform data before analysis.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Explain the concept of MapReduce in big data analytics. How does it facilitate parallel processing and scalability in data analysis?
+
+88f7ace
+Discuss the challenges and considerations in handling big data, including data storage, data quality, and privacy concerns.
+
+2efcde9
+What is data mining in the context of big data analytics?
+Option: Data mining refers to the process of storing and managing large datasets.
+Option: Data mining involves visualizing and interpreting data for decision-making.
+Option dabfac4: Data mining is the process of discovering patterns and insights from large datasets.
+Option: Data mining focuses on collecting and organizing data from various sources.
+
+2efcde9
+What is the purpose of association rule mining in data analytics?
+Option: To identify outliers and anomalies in the data.
+Option: To classify data into predefined categories.
+Option dabfac4: To discover relationships and correlations among different data items.
+Option: To summarize and aggregate data for reporting purposes.
+
+b94d27b
+Classification is a data mining technique used to predict categorical labels or classes for new data instances.
+Option dabfac4: True
+Option: False
+
+b94d27b
+Clustering is a data mining technique used to group similar data instances together based on their characteristics.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Explain the concept of feature selection in data mining. Why is it important, and what strategies can be used for feature selection in big data analytics?
+
+88f7ace
+Discuss the ethical considerations and potential biases in data mining, including privacy issues, fairness, and transparency in decision-making based on mined data.

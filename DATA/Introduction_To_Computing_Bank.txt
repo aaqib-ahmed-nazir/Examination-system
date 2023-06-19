@@ -1,0 +1,108 @@
+2efcde9
+What is the binary representation of the decimal number 10?
+Option: 1001
+Option: 1010
+Option dabfac4: 00001010
+Option: 0101
+
+b94d27b
+The CPU (Central Processing Unit) is responsible for executing instructions and performing calculations in a computer.
+Option dabfac4: True
+Option: False
+
+2efcde9
+What is the purpose of an operating system?
+Option: To provide security and protection for computer systems.
+Option: To manage hardware resources and provide an interface for user interaction.
+Option dabfac4: Both of the above.
+Option: None of the above.
+
+b94d27b
+A byte is typically composed of 8 bits.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Explain the difference between a compiler and an interpreter in the context of programming languages. Provide examples of programming languages that use each approach.
+
+2efcde9
+Which logic gate represents the logical AND operation?
+Option: OR gate
+Option: XOR gate
+Option dabfac4: AND gate
+Option: NOT gate
+
+2efcde9
+What is the binary representation of the decimal number 6?
+Option: 0110
+Option dabfac4: 00000110
+Option: 1010
+Option: 1001
+
+b94d27b
+In digital logic, the NAND gate can be used to implement all other logic gates.
+Option dabfac4: True
+Option: False
+
+b94d27b
+The binary number system is a base-2 number system.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Explain the concept of Boolean algebra and its significance in digital logic design.
+
+2efcde9
+What is the purpose of an algorithm in computer science?
+Option: To store and manipulate data.
+Option: To perform calculations and execute instructions.
+Option dabfac4: To solve a problem by providing a step-by-step procedure or set of rules.
+Option: To provide an interface for user interaction.
+
+b94d27b
+RAM (Random Access Memory) is a type of permanent storage that retains data even when the computer is powered off.
+Option dabfac4: True
+Option: False
+
+2efcde9
+What is the role of a compiler in the software development process?
+Option: To translate high-level programming code into machine language.
+Option: To execute and run the program.
+Option: To debug and fix errors in the code.
+Option dabfac4: To optimize the program for efficient execution.
+
+b94d27b
+The ASCII encoding scheme represents characters using 8 bits.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Discuss the concept of data types in programming. Explain the importance of selecting appropriate data types for different variables in a program.
+
+88f7ace
+Explain the concept of a loop in programming. Provide examples of different types of loops used in programming languages.
+
+b94d27b
+The Central Processing Unit (CPU) is responsible for storing data in a computer system.
+Option: True
+Option dabfac4: False
+
+b94d27b
+An operating system is not required for a computer to function.
+Option dabfac4: True
+Option: False
+
+b94d27b
+RAM (Random Access Memory) is a non-volatile storage device.
+Option dabfac4: True
+Option: False
+
+b94d27b
+A compiler translates high-level programming languages into machine code.
+Option: True
+Option dabfac4: False
+
+b94d27b
+Binary code is the only language understood by a computer.
+Option: True
+Option dabfac4: False

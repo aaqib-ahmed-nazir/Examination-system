@@ -1,0 +1,66 @@
+2efcde9
+What is the purpose of research methodology?
+Option: Data collection
+Option: Hypothesis testing
+Option dabfac4: Providing a systematic approach for conducting research
+Option: Data analysis
+
+b94d27b
+Research methodology refers to the specific methods used in a research study.
+Option dabfac4: True
+Option: False
+
+2efcde9
+What is the main difference between qualitative and quantitative research methods?
+Option: Qualitative research focuses on numbers, while quantitative research focuses on descriptions.
+Option: Qualitative research uses statistical analysis, while quantitative research uses textual analysis.
+Option dabfac4: Qualitative research aims to understand phenomena in depth, while quantitative research focuses on numerical analysis.
+Option: Qualitative research uses questionnaires, while quantitative research uses interviews.
+
+b94d27b
+Sampling is a technique used to select a subset of participants from a larger population.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Discuss the importance of research methodology in ensuring the validity and reliability of research findings.
+
+b94d27b
+Research methodology is a branch of mathematics that deals with the study of numbers and their properties.
+Option: True
+Option dabfac4: False
+
+2efcde9
+What is the role of a research hypothesis in a research study?
+Option: To provide a summary of research findings.
+Option: To establish the research objectives.
+Option dabfac4: To propose a testable statement or prediction about the relationship between variables.
+Option: To determine the sample size for the study.
+
+b94d27b
+Cross-sectional study design is used to collect data at a single point in time.
+Option dabfac4: True
+Option: False
+
+2efcde9
+What is the purpose of a literature review in research methodology?
+Option: To summarize the research findings.
+Option: To provide a theoretical framework for the study.
+Option dabfac4: To identify existing knowledge and gaps in the research area.
+Option: To analyze the data collected in the study.
+
+b94d27b
+Research methodology is only applicable to scientific research and not other fields of study.
+Option: True
+Option dabfac4: False
+
+b94d27b
+Random sampling ensures that every member of the population has an equal chance of being selected for the study.
+Option dabfac4: True
+Option: False
+
+88f7ace
+Explain the difference between primary research and secondary research in terms of data collection methods and sources of information.
+
+88f7ace
+Discuss the ethical considerations in research methodology, including informed consent, confidentiality, and potential conflicts of interest.
